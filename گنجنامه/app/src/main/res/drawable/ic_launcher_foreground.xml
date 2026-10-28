@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden illuminated Persian scroll body (Centered in 66dp safe zone: 21 to 87) -->
+    <path
+        android:fillColor="#F3C644"
+        android:pathData="M35,32 C35,28 73,28 73,32 L73,74 C73,78 35,78 35,74 Z" />
+    <!-- Scroll parchment inner page -->
+    <path
+        android:fillColor="#FBF7EE"
+        android:pathData="M38,34 C38,31 70,31 70,34 L70,72 C70,75 38,75 38,72 Z" />
+    <!-- Gold scroll top and bottom rollers -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M32,30 C32,27 76,27 76,30 C76,33 32,33 32,30 Z" />
+    <path
+        android:fillColor="#B8860B"
+        android:pathData="M32,76 C32,73 76,73 76,76 C76,79 32,79 32,76 Z" />
+    <!-- Turquoise Persian central medallion / gem -->
+    <path
+        android:fillColor="#00A896"
+        android:pathData="M54,46 L60,53 L54,60 L48,53 Z" />
+    <path
+        android:fillColor="#F3C644"
+        android:pathData="M54,49 L58,53 L54,57 L50,53 Z" />
+    <!-- Elegant Persian Calligraphic text lines inside scroll -->
+    <path
+        android:strokeColor="#8C6D23"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M43,39 L65,39" />
+    <path
+        android:strokeColor="#8C6D23"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M43,67 L65,67" />
+    <!-- Slanted golden feather / quill pen across the scroll -->
+    <path
+        android:fillColor="#E5B22E"
+        android:pathData="M66,24 C68,36 57,58 44,70 C42,72 40,73 39,74 C41,71 43,69 46,65 C55,54 62,38 66,24 Z" />
+</vector>

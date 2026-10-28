@@ -1,0 +1,6 @@
+{
+  "name": "گنجنامه",
+  "description": "مجموعه بازی‌های کلمات، معماهای تصویری و مسابقات دانایی در قلمروهای هشت‌گانه ایران باستان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
